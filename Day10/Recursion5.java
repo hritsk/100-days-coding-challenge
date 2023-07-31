@@ -11,7 +11,7 @@ public class Recursion5 {
         return fn;
     }
     public static void main(String args[]) {
-        int n = 50;
+        int n = 26;
         System.out.println(fib(n));
     }
 }
